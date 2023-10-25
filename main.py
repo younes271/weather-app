@@ -1,12 +1,3 @@
-# weather-app
-A new repository created via Python script
-
-
----
-
-Here's a simple Python code using the OpenWeatherMap API to create a basic weather app:
-
-```python
 import requests
 import json
 
@@ -33,6 +24,3 @@ def main():
         
 if __name__=='__main__':
     main()
-```
-
-Please replace 'b35975e18dc93725acb092f7272cc6b8' with your actual API key. You can get your free API key by signing up on the OpenWeatherMap website.
